@@ -1,0 +1,13 @@
+numero_signalisation;date_transaction;montant_transaction;type_transaction;nom_emetteur;prenoms_emetteur;date_naissance_emetteur;nom_destinaire;prenoms_destinaire
+20200876;2020-04-30;650;ER;Ribeiro;Virginie;1988-06-17;Ribeiro;Amélie
+20200858;2020-04-30;3300;PB;Bakouri;Mohamed S.;1978-08-23;Bakouri;Sofiane
+20200834;2020-04-30;4000;PB;Schmitt;Héloïse;1976-05-02;Guillou;Lucas
+20200911;2020-05-03;2400;ER;Coste;Jean-Pierre;1987-03-10;Coste;Lucas
+20200905;2020-05-03;2900;ER;Nguyen;Claude;1990-09-14;Buisson;Christiane
+20200912;2020-05-10;900;ER;Dumont;Patricia;1979-09-12;Bouvier;Suzanne
+20200935;2020-05-15;1850;TE;Coste;Jean Pierre;1987-03-10;Coste;Lucas
+20200960;2020-05-15;3600;TE;Schmit;Éloïse;1976-05-02;Diallo;Sylvie
+20200957;2020-05-15;2550;PB;Bakouri;Mohamed Slim;1978-08-23;Bakouri;Sofiane
+20200962;2020-05-15;2000;ER;Safa;Labdoui;1990-09-18;Benouari;Oussama
+20201273;2020-05-15;4100;PB;Suzanne;Bouvier;1988-06-17;Meunier;Stéphanie
+20201274;2020-05-15;3900;ER;Maurice;Regnier;1977-05-02;Laure;Schmitt
